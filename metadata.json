@@ -1,0 +1,7 @@
+{
+  "name": "Master Sorriso - Clínica Odontológica",
+  "description": "Landing page de alta conversão para a Clínica Master Sorriso em Caxias - MA.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
